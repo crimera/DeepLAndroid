@@ -21,7 +21,7 @@ class FloatingTextSelection : AppCompatActivity() {
             "urlParam",
             defParamValue
         ) ?: defParamValue
-        return@lazy "https://www.deepl.com/translator$urlParam"
+        return@lazy "https://www.deepl.com/en/translator$urlParam"
     }
 
     companion object {
