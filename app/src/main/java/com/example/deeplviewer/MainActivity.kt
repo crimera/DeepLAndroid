@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
 
     companion object {
         private const val REQUEST_SELECT_FILE = 100
-        private const val originUrl = "https://www.deepl.com/translator"
+        private const val originUrl = "https://www.deepl.com/en/translator"
         private const val defParamValue = "#en/en/"
     }
 
