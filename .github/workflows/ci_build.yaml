@@ -2,7 +2,7 @@ name: APK Build
 on: 
   push:
     branches:
-      - master
+      - fix-site-not-working
 
   pull_request:
   workflow_dispatch:
